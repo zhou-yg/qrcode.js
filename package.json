@@ -1,20 +1,20 @@
 {
-  "name": "qrcode.js",
+  "name": "mp-qrcode",
   "version": "1.0.2",
   "description": "QR code generator, supports Numeric, Alphanumeric and Binary input mode up to lvl 40.",
   "author": {
     "name": "Jan Antala",
-    "url": "http://janantala.com"
+    "url": "http://zhou-yg.com"
   },
   "licenses": [{
     "type": "The MIT License",
-    "url": "https://github.com/janantala/qrcode.js/blob/master/LICENSE"
+    "url": "https://github.com/zhou-yg/qrcode.js/blob/master/LICENSE"
   }],
-  "homepage": "https://github.com/janantala/qrcode.js",
-  "bugs": "https://github.com/janantala/qrcode.js/issues",
+  "homepage": "https://github.com/zhou-yg/qrcode.js",
+  "bugs": "https://github.com/zhou-yg/qrcode.js/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/janantala/qrcode.js.git"
+    "url": "https://github.com/zhou-yg/qrcode.js.git"
   },
   "keywords": [
     "qr",
